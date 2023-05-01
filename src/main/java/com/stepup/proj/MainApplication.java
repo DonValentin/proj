@@ -10,5 +10,8 @@ public class MainApplication {
 
         public static void d() {
         System.out.println(1);
+        System.out.println(1);
+        System.out.println(1);
+        System.out.println(1);
     }
 }
